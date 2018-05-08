@@ -29,6 +29,7 @@ public class Emp {
 		this.empType = empType;
 	}
 
+	
 	@Override
 	public String toString() {
 		return "Emp [empId=" + empId + ", empName=" + empName + ", empType="
