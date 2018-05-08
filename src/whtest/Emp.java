@@ -4,6 +4,9 @@ public class Emp {
 	private int empId;
 	private String empName;
 	private String empType;
+	
+	public Emp() {
+	}
 
 	public int getEmpId() {
 		return empId;
