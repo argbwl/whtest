@@ -1,4 +1,4 @@
-package whtest;
+package com.ab.test;
 
 public class Emp {
 	private int empId;
