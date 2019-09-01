@@ -2,6 +2,7 @@ package com.ab.test;
 
 //model class
 public class Emp {
+	//private empdata
 	private int empId;
 	private String empName;
 	private String empType;
