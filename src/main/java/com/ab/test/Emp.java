@@ -16,7 +16,7 @@ public class Emp {
 	public void setEmpId(int empId) {
 		this.empId = empId;
 	}
-
+	//setter method for empName
 	public String getEmpName() {
 		return empName;
 	}
