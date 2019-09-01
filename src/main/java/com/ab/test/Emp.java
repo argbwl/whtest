@@ -9,26 +9,32 @@ public class Emp {
 	public Emp() {
 	}
 
+	//grtter method
 	public int getEmpId() {
 		return empId;
 	}
 
+	//setter method
 	public void setEmpId(int empId) {
 		this.empId = empId;
 	}
 
+	//grtter method
 	public String getEmpName() {
 		return empName;
 	}
 
+	//setter method
 	public void setEmpName(String empName) {
 		this.empName = empName;
 	}
 
+	//grtter method
 	public String getEmpType() {
 		return empType;
 	}
 
+	//setter method
 	public void setEmpType(String empType) {
 		this.empType = empType;
 	}
