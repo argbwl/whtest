@@ -5,6 +5,7 @@ public class Emp {
 	private String empName;
 	private String empType;
 	
+	//default constructor
 	public Emp() {
 	}
 
