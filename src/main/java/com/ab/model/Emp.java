@@ -1,4 +1,4 @@
-package com.ab.test;
+package com.ab.model;
 
 //model class
 public class Emp {
