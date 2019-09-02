@@ -1,6 +1,8 @@
 package com.ab.test;
 
+//model class
 public class Emp {
+	//private empdata
 	private int empId;
 	private String empName;
 	private String empType;
@@ -9,26 +11,31 @@ public class Emp {
 	public Emp() {
 	}
 
+	
 	public int getEmpId() {
 		return empId;
 	}
 
+	
 	public void setEmpId(int empId) {
 		this.empId = empId;
 	}
-	//setter method for empName
+	//grtter method
 	public String getEmpName() {
 		return empName;
 	}
 
+	
 	public void setEmpName(String empName) {
 		this.empName = empName;
 	}
 
+	
 	public String getEmpType() {
 		return empType;
 	}
 
+	
 	public void setEmpType(String empType) {
 		this.empType = empType;
 	}
