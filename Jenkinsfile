@@ -1,5 +1,8 @@
 pipeline{
     agent any
+    options {
+        timestamps()
+    }
     tools { 
       maven 'MAVEN-3.8.4' 
       jdk 'JAVA-1.8' 
